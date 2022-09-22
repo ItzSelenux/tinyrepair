@@ -1,9 +1,6 @@
 # tinyrepair
 remaster of TinyCore with basic utilities to system restoring / file rescue
 
-![s1](/1.png)
-![s2](/2.png)
-
 Program List           | Type|
 ---------------------- | - |
  nano           | Terminal |
@@ -16,3 +13,8 @@ Program List           | Type|
  xfe           | GUI |
  gparted           | GUI |
   aterm           | GUI |
+
+# Screenshots
+![s1](/1.png)
+![s2](/2.png)
+
