@@ -12,8 +12,8 @@ Program List           | Type|
  htop | Terminal |
  xfe           | GUI |
  gparted           | GUI |
-  aterm           | GUI |
-    calculator           | GUI |
+ aterm           | GUI |
+ calculator           | GUI |
 
 # Screenshots
 ![s1](/1.png)
