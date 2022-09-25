@@ -13,6 +13,7 @@ Program List           | Type|
  xfe           | GUI |
  gparted           | GUI |
   aterm           | GUI |
+    calculator           | GUI |
 
 # Screenshots
 ![s1](/1.png)
